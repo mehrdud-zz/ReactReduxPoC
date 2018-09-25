@@ -1,2 +1,0 @@
-# ReactReduxPoC
-Created with CodeSandbox
